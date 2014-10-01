@@ -1,0 +1,328 @@
+html{
+	height: 100%;
+}
+
+body{
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+	font-family: Avenir, Futura, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wrapper{
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0px auto -40px auto;
+}
+
+footer{
+	background-color: #333;
+	padding: 40px;
+	height: 40px;
+	margin-bottom: -40px;
+}
+
+footer ul{
+	list-style: none;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+footer ul li{
+	display: inline-block;
+	color: #fff;
+	text-align: center;
+	margin: 0px 15px 0px 15px;
+	font-size: 10pt;
+}
+
+.container{
+	max-width: 900px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 40px;
+}
+
+.service-bullets{
+	color: #7EB1CC;
+}
+
+.splash{
+	padding: 200px;
+	background: url(../img/cayuga.jpeg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin: -20px auto auto auto;
+}
+
+#splash-title{
+	color: #FFFFFF;
+	font-family: 'Avenir', 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: center;
+	font-size: 80px;
+	font-weight: 100;
+	margin: -100px auto auto auto;
+	text-shadow: 2px 2px #000000
+}
+
+#splash-subtitle
+{
+	color: #FFFFFF;
+	font-family: 'Avenir', 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 100;
+	text-shadow: 2px 2px #000000
+}
+
+.splash-description
+{
+	color: #858585;
+	font-family: 'Avenir', 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 100;
+}
+
+#edlaw
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/edlaw-book.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#intprop
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/intproperty-lightbulb.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#edpolicy
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/edpolicy-cap.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#resource
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/resource.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#cloud
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/cloud-cloud.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#info
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/infomgmt-chatbubble.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#webdev
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/webdev-comp.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#career
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/careermgmt-star.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#coursedev
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/coursedev.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#digitalliteracy
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/digitalliteracy-retweet.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+#copyright
+{
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/copyright-copyright.png);
+	background-size: cover;
+ 	margin: 20px auto 20px auto;
+}
+
+.img-tracymitrano{
+ width: 200px;
+ height: 200px;
+ background-image: url(../img/tracymitrano.jpg);
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.img-nikkoschaff{
+ width: 200px;
+ height: 200px;
+ background-image: url(../img/nikkoschaff.jpg);
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.img-paulciminelli{
+ width: 200px;
+ height: 200px;
+ background-image: url(../img/paulciminelli.jpg);
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.img-paulayounger{
+ width: 200px;
+ height: 200px;
+ background-image: url(../img/paulayounger.jpg);
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.img-davidkoehler{
+ width: 200px;
+ height: 200px;
+ background-image: url(../img/dwk.jpg);
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+header.splash{
+	background: url(../img/bg.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.title{
+	text-align: center;
+	color: #fff;
+	font-size: 15pt;
+	font-weight: 10;
+	padding: 0px 0px 0px 0px;
+	margin: 20px auto 0px auto;
+}
+
+h1
+{
+	text-align: center;
+	margin: 0px auto;
+	color: #858585;
+}
+
+h2
+{
+	text-align: center;
+	font-size: 20px;
+	margin: 0px auto;
+	color: #7EB1CC;
+}
+
+h3
+{
+	text-align: center;
+	margin: 0px auto;
+	color: #858585;
+	text-decoration: underline;;
+}
+
+.member-role
+{
+	text-align: center;
+	font-weight: bold;
+	color: #858585;
+}
+
+
+.member-bio
+{
+	text-align: center;
+}
+
+.splash-description
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 200%;
+}
+
+
+img { 
+   border:1px solid #021a40;
+}
